@@ -1,2 +1,3 @@
 hello world!
 this file is changed by somebody.
+this file is also changed by a cat
