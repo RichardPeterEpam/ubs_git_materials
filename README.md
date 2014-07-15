@@ -18,6 +18,6 @@ Select P4Merge only
 http://www.perforce.com/product/components/perforce-visual-merge-and-diff-tools
 
 
-Git config:
+Git config:<br>
 git config --global merge.tool p4merge
 git config --global mergetool.p4merge.path "C:/Program Files/Perforce/p4merge.exe„
